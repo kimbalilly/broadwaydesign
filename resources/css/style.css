@@ -12,10 +12,6 @@ body {
   padding-bottom: 3px;
   }
 
-a.header {
-  font-size: 18px;
-}
-
 .divider {
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
