@@ -22,6 +22,11 @@ body {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  height: 40px;
+}
+
+.divider h3 {
+  padding: 6px;
 }
 
 h1 {
