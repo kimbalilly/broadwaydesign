@@ -7,9 +7,12 @@ body {
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
   background-repeat: no-repeat;
-  font-size: 18px;
   color: white;
   padding-bottom: 3px;
+  }
+
+  .header a {
+    font-size: 18px
   }
 
 .divider {
